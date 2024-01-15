@@ -1,5 +1,4 @@
-pragma solidity 0.8.10;
-pragma solidity 0.8.10;
+pragma solidity ^0.8.10;
 
 import {IPriceOracleGetter} from "../munged/interfaces/IPriceOracleGetter.sol";
 
